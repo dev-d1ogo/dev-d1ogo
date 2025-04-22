@@ -2,7 +2,7 @@
 <br>
 
 - 📚 Estudando: DDD, Clean Architecture, Devops, IA e Data Science
-- 🖥️ Pretensões: Ser um grande desenvolvedor fullstack
+- 🖥️ Pretensões: Ser um grande líder, gerenciando pessoas e produtos
 - 😀 Pronomes: Ele/Dele
 
 <br>
